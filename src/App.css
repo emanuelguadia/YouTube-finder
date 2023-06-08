@@ -1,0 +1,15 @@
+.App {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: aqua;
+}
+.App header{
+  height:12%;
+  width: 100%;
+  background-color: brown;
+} 
+.App header input{
+  height:50%;
+}
+

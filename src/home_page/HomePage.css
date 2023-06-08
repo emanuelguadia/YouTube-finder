@@ -1,0 +1,8 @@
+.HomePage{
+    display:flex;
+    flex-wrap:wrap;
+    height:82%;
+    width:100%;
+    overflow:auto;
+    background-color: azure;
+}
